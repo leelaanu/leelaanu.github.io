@@ -425,7 +425,7 @@ padding:20px 10px;
 }
 #aboutUs .txtHead .fa {
 font-size: 58px;
-color: #5E5E5E;
+color: #195b67;;
 }
 .tileBox p{
     background-color: #f0f0f0;
@@ -434,6 +434,10 @@ color: #777777;
 padding: 20px;
 margin: 0px;
 }
+#heading
+{
+    font-weight:bold;
+    }
 /*parlex*/
 .bg-parlex {
 padding-top: 0px;
